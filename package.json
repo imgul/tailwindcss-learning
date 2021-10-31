@@ -1,0 +1,14 @@
+{
+  "name": "taliwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i src/styles.css -o public/output.css"
+  },
+  "author": "M Gulzaib",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
